@@ -1,0 +1,15 @@
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\bin\Debug\net6.0\2. fibonnaci.exe
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\bin\Debug\net6.0\2. fibonnaci.deps.json
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\bin\Debug\net6.0\2. fibonnaci.runtimeconfig.json
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\bin\Debug\net6.0\2. fibonnaci.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\bin\Debug\net6.0\2. fibonnaci.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\obj\Debug\net6.0\2. fibonnaci.csproj.AssemblyReference.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\obj\Debug\net6.0\2. fibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\obj\Debug\net6.0\2. fibonnaci.AssemblyInfoInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\obj\Debug\net6.0\2. fibonnaci.AssemblyInfo.cs
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\obj\Debug\net6.0\2. fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\obj\Debug\net6.0\2. fibonnaci.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\obj\Debug\net6.0\refint\2. fibonnaci.dll
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\obj\Debug\net6.0\2. fibonnaci.pdb
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\obj\Debug\net6.0\2. fibonnaci.genruntimeconfig.cache
+C:\Users\Kubaa\Desktop\zadania programowanie 17.05\1. Potęga\2. fibonnaci\2. fibonnaci\obj\Debug\net6.0\ref\2. fibonnaci.dll
